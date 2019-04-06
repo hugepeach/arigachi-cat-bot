@@ -1,1 +1,1 @@
-# original-cat-bot
+# arigachi-cat-bot

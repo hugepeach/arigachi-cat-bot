@@ -1,1 +1,1 @@
-# arigachi-cat-bot
+# arigachi-chat-bot
